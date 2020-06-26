@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "fswift",
+        "repositoryURL": "https://github.com/eMdOS/fswift.git",
+        "state": {
+          "branch": "master",
+          "revision": "cff9f4471468a624ad49098f82d909cdb2bb7cc7",
+          "version": null
+        }
+      },
+      {
+        "package": "URLBuilder",
+        "repositoryURL": "https://github.com/eMdOS/URLBuilder.git",
+        "state": {
+          "branch": "main",
+          "revision": "5458b583c4bcca9b2836236e05f2e2c52dbd589d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
