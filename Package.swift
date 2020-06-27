@@ -11,7 +11,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/eMdOS/fswift.git", .branch("master")),
+        .package(url: "https://github.com/eMdOS/fswift.git", .branch("main")),
         .package(url: "https://github.com/eMdOS/URLBuilder.git", .branch("main"))
     ],
     targets: [
